@@ -1,0 +1,24 @@
+.child{
+
+    width :100px;
+    height :100px;
+
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    border: dotted;
+    /*
+    flex-wrap:wrap  calculates and displayes automatically;
+    */
+}
+#c1{
+    background-color : rgb(138, 219, 246);
+}
+#c2{
+
+    background-color: bisque;
+}
+#c3{
+    background-color: blanchedalmond;
+}
